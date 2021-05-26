@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <html>
       <body>
         <h2>My Plants</h2>
-        <table>
+        <table border="1">
          <tr bgcolor="cornflowerblue">
             <th>Common</th>
             <th>Botanical</th>
